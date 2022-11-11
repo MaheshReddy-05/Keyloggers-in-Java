@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "d:\\Dfault downloads\\Downloads\\jnativehook-2.1.0\\jnativehook\\jar\\jnativehook-2.1.0.jar"
+        ],
+        "exclude": [
+            "d:\\Dfault downloads\\Downloads\\jnativehook-2.2.2.jar",
+            "d:\\Dfault downloads\\Downloads\\jnativehook-2.2.2.jar"
+        ]
+    }
+}
