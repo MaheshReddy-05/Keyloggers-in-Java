@@ -34,12 +34,10 @@ public class App implements NativeKeyListener {
     public void nativeKeyReleased(NativeKeyEvent e) {
         //System.out.println("Key Released: " + NativeKeyEvent.getKeyText(e.getKeyCode()));
     }
-
     /* I can't find any output from this call */
     public void nativeKeyTyped(NativeKeyEvent e) {
     // System.out.println("Key Typed: " + e.getKeyText(e.getKeyCode()));
-     
-     
+
      
      
     }
@@ -59,3 +57,5 @@ public class App implements NativeKeyListener {
         GlobalScreen.addNativeKeyListener(new App());
     }
 }
+
+// Hi ther e
